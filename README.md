@@ -40,13 +40,13 @@ You can view the .ipynb notebook directly on GitHub (with outputs included) with
 
  The dashboard will be displayed, and you can interact with the country dropdown, date range slider, and checkbox to view specific data.
 
-5. Files Included
+## Files Included
 covid_dashboard.ipynb: Jupyter Notebook file containing the interactive dashboard.
 covid_dashboard.py: Python script for the dashboard.
 README.md: This readme file.
 
 
-Features
+## Features
 1.  Time series analysis of total cases, deaths, and vaccinations
 2. Choropleth map of total cases per million people
 3. Interactive dashboard with country/date filtering and hospitalization toggle
@@ -57,7 +57,7 @@ Features
  - Toggle to include hospitalization/ICU data
  - Fully interactive dashboard within Jupyter using ipywidgets
 
-Key Insights
+## Key Insights
 Case Growth Patterns: The US and India had dramatic case increases; Kenya remained significantly lower.
 Vaccination Disparities: Developed countries reached high vaccination rates faster than developing ones.
 Death Rate Trends: Death rates generally declined over time due to better treatments and hospital preparedness.
@@ -72,13 +72,13 @@ Recognize and plan for multiple waves in future pandemic strategies.
 Data Source
 Our World in Data – COVID-19 Dataset
 
-License
+## license
 This project is intended for educational use. Data is open-source and publicly available.
 
-Author
+## Author
 Chalonreay Bahati Kahindi
 
-Acknowledgments
+## Ackowledgements
 Our World in Data
 Johns Hopkins University
 Python open-source community
