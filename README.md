@@ -30,7 +30,6 @@ This project is a comprehensive data analysis dashboard built using Jupyter Note
 3.  Launch Jupyter Notebook:
    ```bash
    jupyter notebook
-
      ```
 
 4. Open the notebook file (covid_dashboard.ipynb) and run all cells sequentially.
